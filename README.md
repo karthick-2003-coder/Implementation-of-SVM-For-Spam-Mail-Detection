@@ -38,8 +38,8 @@ End the Program.
 ## Program :
 
 ### Program to implement the SVM For Spam Mail Detection.
-### DEVELOPED BY : ABRIN NISHA A
-### REG NO : 212222230005
+### DEVELOPED BY : P.KARTHICK
+### REG NO : 212221040072
 
 ```
 import pandas as pd
